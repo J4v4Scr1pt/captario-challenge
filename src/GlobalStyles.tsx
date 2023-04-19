@@ -31,12 +31,6 @@ const GlobalStyle = createGlobalStyle`
         border: 1px solid transparent;
 	}
 
-    @supports (overflow-y: overlay) {
-        body {
-            overflow-y: overlay;
-        }
-    }
-
     * {
         font-family: "Open Sans", helvetica, arial;
         color: #4c4c4c;
