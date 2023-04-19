@@ -26,7 +26,6 @@ const Header = styled.div`
 	h1 {
 		font-size: clamp(3rem, 4vw, 4rem);
 		margin: 0;
-		margin-left: 15px;
 		background: rgb(131, 58, 180);
 		background: linear-gradient(
 			90deg,
